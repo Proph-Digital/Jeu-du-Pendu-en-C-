@@ -1,0 +1,13 @@
+E:\repos\Pendu\Pendu\bin\Debug\netcoreapp3.1\Pendu.exe
+E:\repos\Pendu\Pendu\bin\Debug\netcoreapp3.1\Pendu.deps.json
+E:\repos\Pendu\Pendu\bin\Debug\netcoreapp3.1\Pendu.runtimeconfig.json
+E:\repos\Pendu\Pendu\bin\Debug\netcoreapp3.1\Pendu.runtimeconfig.dev.json
+E:\repos\Pendu\Pendu\bin\Debug\netcoreapp3.1\Pendu.dll
+E:\repos\Pendu\Pendu\bin\Debug\netcoreapp3.1\Pendu.pdb
+E:\repos\Pendu\Pendu\obj\Debug\netcoreapp3.1\Pendu.csprojAssemblyReference.cache
+E:\repos\Pendu\Pendu\obj\Debug\netcoreapp3.1\Pendu.AssemblyInfoInputs.cache
+E:\repos\Pendu\Pendu\obj\Debug\netcoreapp3.1\Pendu.AssemblyInfo.cs
+E:\repos\Pendu\Pendu\obj\Debug\netcoreapp3.1\Pendu.csproj.CoreCompileInputs.cache
+E:\repos\Pendu\Pendu\obj\Debug\netcoreapp3.1\Pendu.dll
+E:\repos\Pendu\Pendu\obj\Debug\netcoreapp3.1\Pendu.pdb
+E:\repos\Pendu\Pendu\obj\Debug\netcoreapp3.1\Pendu.genruntimeconfig.cache
